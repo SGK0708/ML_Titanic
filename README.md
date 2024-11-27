@@ -7,10 +7,9 @@ This project predicts Titanic passenger survival using **Logistic Regression**.
 2. Cleaned the data (handled missing values and encoded features).
 3. Built a logistic regression model to predict survival.
 
-## Technologies Used:
+## Tools and Libraries:
 - **Pandas**: Data manipulation.
 - **Matplotlib/Seaborn**: Data visualization.
 - **Scikit-learn**: Logistic Regression model.
 - **Jupyter Notebook**: Analysis and code.
-
 
